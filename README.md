@@ -3,8 +3,6 @@ ChrizHUD
 
 My custom HUD. I will try to update it more frequently than I have been in the past. Add me if you have any questions or tweaks that you want to make to the HUD. The HUD in its current form is what I like to use and it will obviously not be for everyone!
 
-I will try to update it more frequently than I have been in the past. Add me if you have any questions or tweaks that you want to make to the HUD. The HUD in its current form is what I like to use and it will obviously not be for everyone!
-
 Screenshots: (coming soon)
 
 All you need to know:
