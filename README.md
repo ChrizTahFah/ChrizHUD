@@ -4,8 +4,10 @@ ChrizHUD
 My custom HUD. I will try to update it more frequently than I have been in the past. Add me if you have any questions or tweaks that you want to make to the HUD. The HUD in its current form is what I like to use and it will obviously not be for everyone!
 
 SCREENSHOTS: (coming soon)
+------------
 
 ALL YOU NEED TO KNOW:
+----------------------
 
 In order to install the HUD navigate to C:/program files x86/steam/steamapps/common/team fortress 2/tf/custom. Once you are here you can drag the folder named "HUD" straight in.
 
