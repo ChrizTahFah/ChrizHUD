@@ -3,10 +3,11 @@ ChrizHUD
 
 My custom HUD. I will try to update it more frequently than I have been in the past. Add me if you have any questions or tweaks that you want to make to the HUD. The HUD in its current form is what I like to use and it will obviously not be for everyone!
 
-SCREENSHOTS: (coming soon)
+Screenshots
 ------------
+Coming soon
 
-ALL YOU NEED TO KNOW:
+Everything you need to know
 ----------------------
 
 In order to install the HUD navigate to C:/program files x86/steam/steamapps/common/team fortress 2/tf/custom. Once you are here you can drag the folder named "HUD" straight in.
@@ -25,5 +26,6 @@ I have also modified my crosshair (again) because I do that frequently. If you w
 
 In order to disable the crosshair that you see me use you must delete the hudlayout.res file located inside the scripts folder. Then, change the file name of "hudlayoutNOXhair.res" to "hudlayout.res"
 
-NEW STUFF:
+New Stuff
+---------
 Added killstreak support
