@@ -10,11 +10,7 @@ Coming soon
 Everything you need to know
 ----------------------
 
-In order to install the HUD navigate to C:/program files x86/steam/steamapps/common/team fortress 2/tf/custom. Once you are here you can drag the folder named "HUD" straight in.
-
-THAT'S IT!
-
-Hope you enjoy!
+In order to install the HUD navigate to C:/program files x86/steam/steamapps/common/team fortress 2/tf/custom. Once you are here you can drag the folder named "HUD" in.
 
 I have also included a net_graph tweak because I was too lazy to remove it. It compacts the graph so it's better anyway.
 
