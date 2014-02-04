@@ -45,7 +45,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontMediumSmall"
+		"font"					"StreakFont"
 	}
 
 	"ItemEffectMeter"
@@ -84,7 +84,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontMediumSmallBold"
+		"font"					"StreakFont"
 	}
 		"ItemEffectMeterCountBG"
 	{
@@ -104,6 +104,6 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontMediumSmallBold"
+		"font"					"StreakFont"
 	}
 }
