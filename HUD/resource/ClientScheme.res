@@ -735,21 +735,22 @@ Scheme
 		// fonts are used in order that they are listed
 		// fonts listed later in the order will only be used if they fulfill a range not already filled
 		// if a font fails to load then the subsequent fonts will replace
-"CrossHairKonrWings"
-{
-"1"
-{
-"name"	 "Garm3nFont"
-"tall"	 "18"
-"weight"	"0"
-"antialias"	"1"
-}
-}
-"12" 
-{
-"font" "resource/Garm3nFont.ttf"
-"name" "Garm3nFont"
-}
+	
+	"CrossHairKonrWings"
+	{
+		"1"
+		{
+		"name"	 "Garm3nFont"
+		"tall"	 	"18"
+		"weight"	"0"
+		"antialias"	"1"
+		}
+	}
+				"12" 
+	{
+		"font" "resource/Garm3nFont.ttf"
+		"name" "Garm3nFont"
+	}
 		"xHair"
 		{
 			"1"
@@ -970,18 +971,19 @@ Scheme
 				"tall"		"19"
 				"additive"	"0"
 				"antialias" 	"1"
-				"outline"	"0"
+				"outline"	"1"
 			}
 		}
 		m0refont20
 		{
 			"1"
 			{
-				"name"		"surface-medium"
+				"name"		"surface-large"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" 	"1"
-				"outline"	"0"
+				"outline"	"1"
+				"dropshadow"	"0"
 			}
 		}
 		m0refont21
@@ -2899,6 +2901,16 @@ Scheme
 				"tall"		"14"
 				"weight"	"900"
 				"antialias" "1"
+			}
+		}
+		"StreakFont"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-ExtraBold.ttf"
+				"tall"		"20"
+				"weight"	"0"
+				"antialias" 	"1"
 			}
 		}
 		// Used by scoreboard and spectator UI for names which don't map in the normal fashion
