@@ -38,7 +38,7 @@ CrossHairKonrWings1
 "fgcolor"	 "0 255 0 255"
 
 }
-	CrossHairNormal
+CrossHairNormal
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairNormal"
@@ -102,6 +102,19 @@ CrossHairKonrWings1
 		"ypos"	"0"
 		"wide"	"f0"
 		"tall"	"480"
+	}
+HudMannVsMachineStatus
+	{
+		"fieldName" "HudMannVsMachineStatus"
+		"visible"	"1"
+		"enabled"	"1"
+		"xpos"		"0"
+		"ypos"		"0"
+		"zpos"		"1"
+		"wide"		"f0"
+		"tall"		"480"
+
+		"PaintBackgroundType"	"2"
 	}
 
 	HudWeaponAmmo
@@ -310,9 +323,9 @@ CrossHairKonrWings1
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"61"
+		"xpos"					"112"
 		"ypos"					"r154"
-		"wide"					"116"
+		"wide"					"170"
 		"tall"  				"180"
 		"visible" 				"1"
 		"enabled" 				"1"
@@ -1307,7 +1320,7 @@ CrossHairKonrWings1
 	HudInspectPanel
 	{
 		"fieldName"				"HudInspectPanel"
-		"visible"				"1"
+		"visible"				"0"
 		"enabled"				"1"
 		"xpos"					"r150"
 		"ypos"					"r220"
