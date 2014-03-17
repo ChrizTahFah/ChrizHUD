@@ -97,7 +97,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"TargetDataLabel"
 		"font"			"m0refont13"//"DefaultSmall"
-		"xpos"			"35"
+		"xpos"			"60"
 		"ypos"			"-1"	[$WIN32]
 		"ypos"			"22"	[$X360]
 		"ypos_hidef"		"25"	[$X360]
@@ -109,7 +109,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%targetdata%"
-		"textAlignment"		"Left"
+		"textAlignment"		"Centered"
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"fgcolor_override"		"97 0 255 255"//"70 200 70 255"
