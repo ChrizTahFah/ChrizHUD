@@ -112,7 +112,7 @@
 		"textAlignment"		"Centered"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"fgcolor_override"		"97 0 255 255"//"70 200 70 255"
+		"fgcolor_override"		"0 191 255 255"//"70 200 70 255"
 	}
 	"SpectatorGUIHealth"
 	{
