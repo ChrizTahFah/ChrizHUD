@@ -97,7 +97,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"TargetDataLabel"
 		"font"			"m0refont13"//"DefaultSmall"
-		"xpos"			"60"
+		"xpos"			"35"
 		"ypos"			"-1"	[$WIN32]
 		"ypos"			"22"	[$X360]
 		"ypos_hidef"		"25"	[$X360]
