@@ -1,7 +1,7 @@
 ChrizHUD
 ========
 
-My custom HUD. I will try to update it more frequently than I have been in the past. Add me if you have any questions or tweaks that you want to make to the HUD. The HUD in its current form is what I like to use and it will obviously not be for everyone!
+My custom HUD..Add me if you have any questions or tweaks that you want to make to the HUD. The HUD in its current form is what I like to use and it will obviously not be for everyone! I do tend to make little tweaks to colors and positioning so if you always want the most updated version that I am currently using check back frequently for updates.
 
 This HUD comes with and without the built in crosshair.
 
