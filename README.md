@@ -43,4 +43,8 @@ In order to disable the crosshair that you see me use you must delete the hudlay
 
 New Stuff
 ---------
+(A while ago)
 Added killstreak support
+
+3/18/14
+Changed the color of the TargetID (healed by target/ target info) to make it more visible on all maps.
