@@ -180,25 +180,6 @@
 		//"fgcolor"		"0 0 0 255"
 		"fgcolor" "0 255 0 255"
 	}
-CrossHairKonrWings
-{
-"controlName"	"CExLabel"
-"fieldName"	 "CrossHairKonrWings"
-"visible"	 "0"
-"enabled"	 "1"
-"zpos"	 "2"
-
-"xpos"	 "c-29"
-"ypos"	 "c-24"
-"wide"	 "49"
-"tall"	 "49"
-
-"font"	 "CrossHairKonrWings"
-"labelText"	 "Z"
-"textAlignment"	"center"	
-"fgcolor"	 "0 255 0 255"
-
-}
 CrossHairKonrWings1
 {
 "controlName"	"CExLabel"
@@ -215,8 +196,8 @@ CrossHairKonrWings1
 "font"	 "CrossHairKonrWings"
 "labelText"	 "Z"
 "textAlignment"	"west"	
-"fgcolor"	 "0 255 0 255"
-
+"fillcolor"     "255 255 255 255"
+"alpha" "18"
 }
 	CrossHairNormal
 	{
