@@ -196,8 +196,7 @@ CrossHairKonrWings1
 "font"	 "CrossHairKonrWings"
 "labelText"	 "Z"
 "textAlignment"	"west"	
-"fillcolor"     "255 255 255 255"
-"alpha" "18"
+"fgcolor"     "0 255 0 100"
 }
 	CrossHairNormal
 	{
