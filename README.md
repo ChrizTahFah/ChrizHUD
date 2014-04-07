@@ -48,3 +48,6 @@ Added killstreak support
 
 3/18/14
 Changed the color of the TargetID (healed by target/ target info) to make it more visible on all maps.
+
+4/7/14
+Added custom captions
