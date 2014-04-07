@@ -106,13 +106,13 @@
 		"tall"			"15"
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"1"
+		"visible"			"1"
 		"enabled"		"1"
 		"labelText"		"%targetdata%"
-		"textAlignment"		"Centered"
+		"textAlignment"		"centered"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"fgcolor_override"		"0 191 255 255"//"70 200 70 255"
+		"fgcolor_override"		"87 205 255 255"//"70 200 70 255"
 	}
 	"SpectatorGUIHealth"
 	{

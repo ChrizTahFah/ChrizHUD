@@ -19,6 +19,7 @@ Scheme
 	Colors
 	{
 		// base colors
+		// base colors
 		"m0retrans" "0 0 0 75"
 		"m0reblack" "0 0 0 200"
 		"m0reshadow" "0 0 0 125"
@@ -2229,14 +2230,12 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"CloseCaption_Normal"
+				"CloseCaption_Normal"
 		{
 			"1"
 			{
-				"name"		"Tahoma"
-				"tall"		"24"
-				"tall_hidef"	"32"
-				"weight"	"500"
+				"name"		"FuturaStd-Bold.ttf"
+				"tall"		"26"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
@@ -2244,11 +2243,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
-				"tall"		"24"
-				"tall_hidef"	"32"
-				"weight"	"500"
-				"italic"	"1"
+				"name"		"FuturaStd-LightOblique.ttf"
+				"tall"		"26"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
@@ -2256,10 +2252,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
-				"tall"		"24"
-				"tall_hidef"	"32"
-				"weight"	"900"
+				"name"		"FuturaStd-Bold.ttf"
+				"tall"		"26"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
@@ -2267,10 +2261,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
-				"tall"		"24"
-				"tall_hidef"	"32"
-				"weight"	"900"
+				"name"		"FuturaStd-BoldOblique.ttf"
+				"tall"		"26"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -2279,10 +2271,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
-				"tall"		"16"
-				"tall_hidef"	"24"
-				"weight"	"900"
+				"name"		"FuturaStd-bold.ttf"
+				"tall"		"20"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}

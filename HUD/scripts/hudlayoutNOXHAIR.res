@@ -38,7 +38,7 @@ CrossHairKonrWings1
 "fgcolor"	 "0 255 0 255"
 
 }
-CrossHairNormal
+	CrossHairNormal
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairNormal"
@@ -102,19 +102,6 @@ CrossHairNormal
 		"ypos"	"0"
 		"wide"	"f0"
 		"tall"	"480"
-	}
-HudMannVsMachineStatus
-	{
-		"fieldName" "HudMannVsMachineStatus"
-		"visible"	"1"
-		"enabled"	"1"
-		"xpos"		"0"
-		"ypos"		"0"
-		"zpos"		"1"
-		"wide"		"f0"
-		"tall"		"480"
-
-		"PaintBackgroundType"	"2"
 	}
 
 	HudWeaponAmmo
@@ -323,9 +310,9 @@ HudMannVsMachineStatus
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"112"
+		"xpos"					"61"
 		"ypos"					"r154"
-		"wide"					"170"
+		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
 		"enabled" 				"1"
@@ -687,14 +674,14 @@ HudMannVsMachineStatus
 		"fieldName" "HudCloseCaption"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"c-250"
+		"xpos"		"c-218"
 		"ypos"		"276"	[$WIN32]
 		"ypos"		"236"	[$X360]
-		"wide"		"500"
-		"tall"		"136"	[$WIN32]
+		"wide"		"100"
+		"tall"		"76"	[$WIN32]
 		"tall"		"176"	[$X360]
 
-		"BgAlpha"	"128"
+		"BgAlpha"	"0"
 
 		"GrowTime"		"0.25"
 		"ItemHiddenTime"	"0.2"  // Nearly same as grow time so that the item doesn't start to show until growth is finished
@@ -1320,7 +1307,7 @@ HudMannVsMachineStatus
 	HudInspectPanel
 	{
 		"fieldName"				"HudInspectPanel"
-		"visible"				"0"
+		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"r150"
 		"ypos"					"r220"
