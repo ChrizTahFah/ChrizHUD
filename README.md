@@ -1,9 +1,11 @@
 ChrizHUD
 ========
 
-My custom HUD..Add me if you have any questions or tweaks that you want to make to the HUD. The HUD in its current form is what I like to use and it will obviously not be for everyone! I do tend to make little tweaks to colors and positioning so if you always want the most updated version that I am currently using check back frequently for updates.
+My custom HUD. Add me if you have any questions or tweaks that you want to make to the HUD. The HUD in its current form is what I like to use and it will obviously not be for everyone! I do tend to make little tweaks to colors and positioning so if you always want the most updated version that I am currently using check back frequently for updates.
 
 This HUD comes with and without the built in crosshair.
+
+The scoreboard and HUD elements are not positioned 100% properly for MvM mode mostly because I hardly ever play that mode and the missing information is not too useful anyway. Again, the HUD is built around what I need it for so MvM is not my top priority. Sorry!
 
 Screenshots
 ------------
