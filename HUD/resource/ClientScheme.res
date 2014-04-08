@@ -2235,7 +2235,7 @@ Scheme
 			"1"
 			{
 				"name"		"FuturaStd-Bold.ttf"
-				"tall"		"26"
+				"tall"		"24"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
@@ -2244,7 +2244,7 @@ Scheme
 			"1"
 			{
 				"name"		"FuturaStd-LightOblique.ttf"
-				"tall"		"26"
+				"tall"		"24"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
@@ -2253,7 +2253,7 @@ Scheme
 			"1"
 			{
 				"name"		"FuturaStd-Bold.ttf"
-				"tall"		"26"
+				"tall"		"24"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
@@ -2262,7 +2262,7 @@ Scheme
 			"1"
 			{
 				"name"		"FuturaStd-BoldOblique.ttf"
-				"tall"		"26"
+				"tall"		"24"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
