@@ -71,7 +71,7 @@
         {
                 "ControlName"                        "CExLabel"
                 "fieldName"                                "ItemEffectMeterCount"
-                "xpos"                                        "0"
+                "xpos"                                        "-20"
                 "ypos"                                        "10"
                 "zpos"                                        "2"
                 "wide"                                        "100"
@@ -96,7 +96,7 @@
                 "wide"                                        "100"
                 "tall"                                        "20"        
                 "pinCorner"                                "2"
-                "visible"                                "1"
+                "visible"                                "0"
                 "enabled"                                "1"
                 "tabPosition"                        "0"
                 "fgcolor_override"                "TransparentBlack"
