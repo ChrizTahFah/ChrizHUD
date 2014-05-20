@@ -53,3 +53,9 @@ Changed the color of the TargetID (healed by target/ target info) to make it mor
 
 4/7/14
 Added custom captions
+
+5/18/14
+Moved eyelander head count to prevent it from conflicting with the killstreak counter
+
+5/19/14
+Added server time under round timer. This helps track uber advantage.
