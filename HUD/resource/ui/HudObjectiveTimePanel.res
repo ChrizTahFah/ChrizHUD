@@ -189,7 +189,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"FuturaStd-LightOblique.ttf"
+		"font"			"ClockSubText"
 	}	
 	"ServerTimeLimitLabelBG"
 	{
