@@ -4,21 +4,20 @@
 	{
 		"ControlName"		"Frame"
 		"fieldName"		"specgui"
-		"wide"			"10000"
-		"tall"			"48000"
+		"wide"			"f0"
+		"tall"			"480"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"enabled"		"1"
 
-		
-		"team1_player_base_offset_x"		"36123123127"
-		"team1_player_base_y"				"460"
+		"team1_player_base_offset_x"		"0"
+		"team1_player_base_y"				"130"
 		"team1_player_delta_x"				"0"
 		"team1_player_delta_y"				"-15"
-		"team2_player_base_offset_x"		"207"
-		"team2_player_base_y"				"460"
+		"team2_player_base_offset_x"		"0"
+		"team2_player_base_y"				"158"
 		"team2_player_delta_x"				"0"
-		"team2_player_delta_y"				"-15"
+		"team2_player_delta_y"				"15"
 
 		"playerpanels_kv"
 		{

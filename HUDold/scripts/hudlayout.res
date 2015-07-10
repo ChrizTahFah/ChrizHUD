@@ -222,7 +222,7 @@ CrossHairKonrWings1
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairCircle"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-100"

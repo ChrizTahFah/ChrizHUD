@@ -1,191 +1,29 @@
 "Resource/HudLayout.res"
 {
-"Crosshair_vertical"
-    {
-        "ControlName"       "ImagePanel"
-        "fieldName"     "VerticalLine"
-        "xpos"          "c"
-        "xpos_lodef"    "279"
-        "xpos_hidef"    "309"
-        "ypos"          "c-124"
-        "zpos"          "-5"
-        "wide"          "1"
-        "tall"          "104"
-        "tall_lodef"    "206"
-        "tall_hidef"    "212"
-        "autoResize"    "0"
-        "pinCorner"     "0"
-        "visible"       "1"
-        "enabled"       "1"
-        "fillcolor"     "255 255 255 255"
-        "alpha" "18"
-                }
-            "Crosshair_horizontal"
-    {
-        "ControlName"       "ImagePanel"
-        "fieldName"     "VerticalLine"
-        "xpos"          "c-200"
-        "xpos_lodef"    "279"
-        "xpos_hidef"    "309"
-        "ypos"          "c"
-        "zpos"          "-5"
-        "wide"          "180"
-        "tall"          "1"
-        "tall_lodef"    "206"
-        "tall_hidef"    "212"
-        "autoResize"    "0"
-        "pinCorner"     "0"
-        "visible"       "1"
-        "enabled"       "1"
-        "fillcolor"     "255 255 255 255"
-        "alpha" "18"
-        }
-                    "Crosshair_horizontal"
-    {
-        "ControlName"       "ImagePanel"
-        "fieldName"     "VerticalLine"
-        "xpos"          "c20"
-        "xpos_lodef"    "279"
-        "xpos_hidef"    "309"
-        "ypos"          "c"
-        "zpos"          "-5"
-        "wide"          "180"
-        "tall"          "1"
-        "tall_lodef"    "206"
-        "tall_hidef"    "212"
-        "autoResize"    "0"
-        "pinCorner"     "0"
-        "visible"       "1"
-        "enabled"       "1"
-        "fillcolor"     "255 255 255 255"
-        "alpha" "18"
-        }
-    "dark_top"
-    {
-        "ControlName"       "ImagePanel"
-        "fieldName"     "VerticalLine"
-        "xpos"          "c"
-        "xpos_lodef"    "279"
-        "xpos_hidef"    "309"
-        "ypos"          "183"
-        "zpos"          "-5"
-        "wide"          "1"
-        "tall"          "38"
-        "tall_lodef"    "206"
-        "tall_hidef"    "212"
-        "autoResize"    "0"
-        "pinCorner"     "0"
-        "visible"       "0"
-        "enabled"       "1"
-        "fillcolor"     "255 255 255 255"
-        "alpha" "9"
-                }
-    "dark_bottom"
-    {
-        "ControlName"       "ImagePanel"
-        "fieldName"     "VerticalLine"
-        "xpos"          "c"
-        "xpos_lodef"    "279"
-        "xpos_hidef"    "309"
-        "ypos"          "260"
-        "zpos"          "-5"
-        "wide"          "1"
-        "tall"          "38"
-        "tall_lodef"    "206"
-        "tall_hidef"    "212"
-        "autoResize"    "0"
-        "pinCorner"     "0"
-        "visible"       "1"
-        "enabled"       "1"
-        "fillcolor"     "255 255 255 255"
-        "alpha" "18"
-                }
-            "dark_left"
-    {
-        "ControlName"       "ImagePanel"
-        "fieldName"     "VerticalLine"
-        "xpos"          "c-70"
-        "xpos_lodef"    "279"
-        "xpos_hidef"    "309"
-        "ypos"          "c"
-        "zpos"          "-5"
-        "wide"          "50"
-        "tall"          "1"
-        "tall_lodef"    "206"
-        "tall_hidef"    "212"
-        "autoResize"    "0"
-        "pinCorner"     "0"
-        "visible"       "0"
-        "enabled"       "1"
-        "fillcolor"     "255 255 255 255"
-        "alpha" "9"
-                        }
-            "dark_right"
-    {
-        "ControlName"       "ImagePanel"
-        "fieldName"     "VerticalLine"
-        "xpos"          "c20"
-        "xpos_lodef"    "279"
-        "xpos_hidef"    "309"
-        "ypos"          "c"
-        "zpos"          "-5"
-        "wide"          "50"
-        "tall"          "1"
-        "tall_lodef"    "206"
-        "tall_hidef"    "212"
-        "autoResize"    "0"
-        "pinCorner"     "0"
-        "visible"       "0"
-        "enabled"       "1"
-        "fillcolor"     "255 255 255 255"
-        "alpha" "9"
-        }
-	CrossHairSpecialCombo1
-	{
-		"controlName"	"CExLabel"
-		"fieldName"	 	"CrossHairSpecialCombo1"
-		"visible"		"1"
-		"enabled"		"1"
-		"zpos"			"2"
+CrossHairKonrWings
+{
+"controlName"	"CExLabel"
+"fieldName"	 "CrossHairKonrWings"
+"visible"	 "0"
+"enabled"	 "1"
+"zpos"	 "2"
 
-		"xpos"			"c-100"
-		"ypos"			"c-101"
-		"wide"			"200"
-		"tall"			"202"
+"xpos"	 "c-29"
+"ypos"	 "c-24"
+"wide"	 "49"
+"tall"	 "49"
 
-		"font"			"CrossHairSpecialCombo1"
-		"labelText"		"i"
-		"textAlignment"	"center"	
-		
-		"fgcolor"		"0 0 0 255"
-	}
+"font"	 "CrossHairKonrWings"
+"labelText"	 "Z"
+"textAlignment"	"center"	
+"fgcolor"	 "0 255 0 255"
 
-	CrossHairSpecialCombo2
-	{
-		"controlName"	"CExLabel"
-		"fieldName"	 	"CrossHairSpecialCombo2"
-		"visible"		"0"
-		"enabled"		"1"
-		"zpos"			"2"
-
-		"xpos"			"c-101"
-		"ypos"			"c-101"
-		"wide"			"200"
-		"tall"			"202"
-
-		"font"			"CrossHairSpecialCombo2"
-		"labelText"		">"
-		"textAlignment"	"center"	
-		
-		//"fgcolor"		"0 0 0 255"
-		"fgcolor" "0 255 0 255"
-	
-	}
+}
 CrossHairKonrWings1
 {
 "controlName"	"CExLabel"
 "fieldName"	 "CrossHairKonrWings"
-"visible"	 "1"
+"visible"	 "0"
 "enabled"	 "1"
 "zpos"	 "2"
 
@@ -197,8 +35,27 @@ CrossHairKonrWings1
 "font"	 "CrossHairKonrWings"
 "labelText"	 "Z"
 "textAlignment"	"west"	
-"fgcolor" "0 255 0 100"
+"fgcolor"	 "0 255 0 255"
+
 }
+	CrossHairNormal
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"CrossHairNormal"
+		"visible"		"0"
+		"enabled"		"1"
+		"zpos"			"1"
+
+		"xpos"			"c-12"
+		"ypos"			"c-14"
+		"wide"			"24"
+		"tall"			"25"
+
+		"font"			"CrossHairNormal"
+		"labelText"		"+"
+		"fgcolor"		"0 255 0 255"
+		"textAlignment"	"center"
+	}
 	CrossHairdot
 	{
 		"controlName"	"CExLabel"
@@ -222,7 +79,7 @@ CrossHairKonrWings1
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairCircle"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-100"
@@ -245,19 +102,6 @@ CrossHairKonrWings1
 		"ypos"	"0"
 		"wide"	"f0"
 		"tall"	"480"
-	}
-HudMannVsMachineStatus
-	{
-		"fieldName" "HudMannVsMachineStatus"
-		"visible"	"1"
-		"enabled"	"1"
-		"xpos"		"0"
-		"ypos"		"0"
-		"zpos"		"1"
-		"wide"		"f0"
-		"tall"		"480"
-
-		"PaintBackgroundType"	"2"
 	}
 
 	HudWeaponAmmo
@@ -466,9 +310,9 @@ HudMannVsMachineStatus
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"112"
+		"xpos"					"61"
 		"ypos"					"r154"
-		"wide"					"170"
+		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
 		"enabled" 				"1"
@@ -825,7 +669,7 @@ HudMannVsMachineStatus
 
 	}
 
-		HudCloseCaption
+	HudCloseCaption
 	{
 		"fieldName" "HudCloseCaption"
 		"visible"	"1"
@@ -1463,7 +1307,7 @@ HudMannVsMachineStatus
 	HudInspectPanel
 	{
 		"fieldName"				"HudInspectPanel"
-		"visible"				"0"
+		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"r150"
 		"ypos"					"r220"
