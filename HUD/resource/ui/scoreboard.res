@@ -14,12 +14,16 @@
 		"enabled"		"1"
 		"tabPosition"		"0"
 		"avatar_width"		"60"	[$WIN32]
+		"medal_width"		"14"
 		"name_width"		"90"	[$WIN32]
+		"spacer"			"5"
 		"status_width"		"15"	[$WIN32]
 		"nemesis_width"		"15"	[$WIN32]
 		"class_width"		"15"	[$WIN32]
 		"score_width"		"24"
 		"ping_width"		"24"	[$WIN32]
+		"killstreak_width"	"15"
+		"killstreak_image_width" "15"
 	}
 	"BlueScoreBG"
 	{
